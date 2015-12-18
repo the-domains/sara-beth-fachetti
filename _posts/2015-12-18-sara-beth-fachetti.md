@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: About the media maven herself.
-datePublished: '2015-12-18T20:13:53.845Z'
-dateModified: '2015-12-18T20:13:40.676Z'
+datePublished: '2015-12-18T20:22:56.628Z'
+dateModified: '2015-12-18T20:22:52.529Z'
 title: Sara Beth Fachetti
 author: []
 authors: []
